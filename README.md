@@ -40,6 +40,3 @@ Na podstawie modelu wyznaczono prognozę na I kwartał 2024 roku.
 ### Ocena prognozy
 * **Błąd ex ante (V_T*):** Wyniósł 8,19%, co jest zgodne z założeniem projektu (V_T* < 10%) i potwierdza, że prognoza jest dopuszczalna.
 * **Błąd ex post (MAPE):** Wyniósł 19,20%, co oznacza, że wyznaczona liczba mieszkań różni się od rzeczywistej o 19,20%. Odchylenie od danych rzeczywistych przypisano lokalnej anomalii rynkowej.
-
----
-*Autor: Kinga Gnidzińska*
